@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Ragdoll Dynamics
 
-You can use the [editor on GitHub](https://github.com/alanjfs/ragdoll-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Real-time physics for Maya
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a class="button" href="download">Download v2020.10.07</a>
 
-### Markdown
+Ragdoll enables animators to work directly with **live physics** in their character rigs, at real-time performance, by leveraging the same technology used by next-generation games.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Say no to static cloth, hair and muscles
+- Say no to intersections
 
-```markdown
-Syntax highlighted code block
+The results can either plug straight into rendering or give technical animators a physically realistic starting point for e.g. high-resolution folds in clothing, volumetric fascia simulation and skin sliding.
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## ![hair](https://user-images.githubusercontent.com/47274066/95461849-9cffe280-096e-11eb-8a7a-f2152a4ea30e.png) Hair
 
-**Bold** and _Italic_ and `Code` text
+Animate with realistically simulated hair in real-time, for fine control over the final result. No more intersections, woho!
 
-[Link](url) and ![Image](src)
-```
+![ragdollhair3](https://user-images.githubusercontent.com/2152766/95451343-8f8f2c00-095f-11eb-9f43-9880e5871d59.gif)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br>
 
-### Jekyll Themes
+## ![cloth](https://user-images.githubusercontent.com/47274066/95461823-95d8d480-096e-11eb-96d8-04daf71690dc.png) Cloth
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alanjfs/ragdoll-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Real-time cloth for animators to stay on top of what cloth looks like in the final shot.
 
-### Support or Contact
+![ragdollskirtwind3](https://user-images.githubusercontent.com/2152766/95451361-94ec7680-095f-11eb-8656-a47232c64bdd.gif)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>
+
+## ![muscle](https://user-images.githubusercontent.com/47274066/95461832-983b2e80-096e-11eb-9b9e-b2eb90bc66bd.png) Muscle
+
+Simulate anatomically correct muscles for your animators, in real-time.
+
+![ragdollstrongman2](https://user-images.githubusercontent.com/2152766/95451419-a6ce1980-095f-11eb-85cc-1a8c52ceb179.gif)
+
+<br>
+
+## Features
+
+- **Performance** 0.01-5 ms/frame, from a single box to a full character with skeleton, hair, cloth and muscles running in parallel
+- **Stability** Capable of simulating fully functional [Mecha](https://en.wikipedia.org/wiki/Mecha) with the most stable solver on the market today
+- **Collision Detection** Exactly what would would expect from any self-respecting physics solver
+- **Constraints** Point, Orient and Parent constraints; just like regular Maya constraints, except physical!
+- **Natural Forces** Including Push, Magnet and Turbulence for a perfect integration into any environment
+- **Rewind and Continue** Play forwards and backwards without ever having to worry about returning to frame 1. Suck on that, nCloth!
+- **Active Control** Balance animation and physics with life-like control over "virtual muscles"
+- **Anatomical Limits** Precise control over the angle each limb or chain can attain
+- **Determinsm** Trust that every playthrough is identical to the last, even on different machines and operating systems.
+- **Python API** Precise integration into your pipeline with this first-class API, built with the fast and flexible [cmdx](https://github.com/mottosso/cmdx)
+
+<br>
+
+## Tutorials
+
+[![image](https://user-images.githubusercontent.com/47274066/95450416-2c50ca00-095e-11eb-90c9-a3c671f99c58.png)](https://youtu.be/mJFRmRGthMw)
+
+[![image](https://user-images.githubusercontent.com/47274066/95450438-3377d800-095e-11eb-856c-94b6d634fbdb.png)](https://youtu.be/HsyCGfuim0k)
+
+[![image](https://user-images.githubusercontent.com/47274066/95450452-383c8c00-095e-11eb-82b0-09954e2c706c.png)](https://youtu.be/sKESMr5lyz0)
+
+<a class="button" href="howto">More</a>
