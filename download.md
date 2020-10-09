@@ -54,7 +54,7 @@ Your scenes will still open, but the solver will be disabled. Contact [licence@r
 
 # Limitations
 
-As of `2020.10.07` these are the current known limitations of Ragdoll.
+As of `2020.10.09` these are the current known limitations of Ragdoll.
 
 - Save often. It *may*, on rare occasions, **crash** Maya
 - Only 1 Ragdoll scene may exist per Maya scene
