@@ -46,7 +46,7 @@ Binaries are currently provided for:
 
 > What happens when my licence runs out?
 
-Your scenes will still open, but the solver will be disabled. Contact [licence@ragdolldynamics.com](licence@ragdolldynamics.com) for renewal of your licence.
+Your scenes will still open, but the solver will be disabled. Contact [licence@ragdolldynamics.com](mailto:licence@ragdolldynamics.com) for renewal of your licence.
 
 <br>
 

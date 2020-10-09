@@ -4,7 +4,9 @@ Real-time physics for Maya
 
 <a class="button" href="download">Download v2020.10.07</a>
 
-Ragdoll enables animators to work directly with **live physics** in their character rigs, at real-time performance, by leveraging the same technology used by next-generation games.
+Intersections getting you down? Secondary animation causing you pain?
+
+Look no further! Ragdoll enables animators to work directly with **live physics** in their character rigs, at real-time performance, by leveraging the same technology used by next-generation games.
 
 - Say no to static cloth, hair and muscles
 - Say no to intersections
