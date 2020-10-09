@@ -1,6 +1,6 @@
 # Ragdoll Dynamics
 
-Real-time physics for Maya
+Real-time physics for Autodesk® Maya 2020
 
 <a class="button" href="download">Download v2020.10.07</a>
 
@@ -16,7 +16,6 @@ Look no further! Ragdoll enables animators to work directly with **live physics*
 The results can either plug straight into final render or give technical animators a physically realistic starting point for e.g. high-resolution folds in clothing, volumetric fascia simulation and skin sliding.
 
 <br>
-
 
 ## ![hair](https://user-images.githubusercontent.com/47274066/95461849-9cffe280-096e-11eb-8a7a-f2152a4ea30e.png) Hair
 

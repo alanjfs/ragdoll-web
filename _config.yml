@@ -1,5 +1,7 @@
 title: "Ragdoll"
 theme: jekyll-theme-minimal
 description: "Real-time physics for Maya"
-logo: https://user-images.githubusercontent.com/2152766/95452284-efd29d80-0960-11eb-9c59-5a5c8adb6a6b.png
+logo_title: https://user-images.githubusercontent.com/2152766/95574482-e9a5f500-0a24-11eb-92b0-1f836424efef.png
+logo_mascot: https://user-images.githubusercontent.com/2152766/95574486-eb6fb880-0a24-11eb-978f-10652dd82a43.png
 repository: "alanjfs/ragdoll-web"
+show_downloads: false

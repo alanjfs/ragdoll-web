@@ -1,6 +1,6 @@
 # How-to
 
-- [Home](/)
+Learn how to do things with Ragdoll.
 
 [![image](https://user-images.githubusercontent.com/47274066/95450416-2c50ca00-095e-11eb-90c9-a3c671f99c58.png)](https://youtu.be/mJFRmRGthMw)
 

@@ -31,7 +31,7 @@ Binaries are currently provided for:
 
 # FAQ
 
-> What are the workstation requirements?
+> What are my workstation requirements?
 
 - Windows 10+ or CentOS 7+
 - 64-bit Intel® or AMD® processor
@@ -40,9 +40,11 @@ Binaries are currently provided for:
 
 > What are my licensing options?
 
-- **Trial Licence** - Enjoy the full power of the Ragdoll for 60 days, no strings attached
-- **Node-locked Licence** - Any number of users, one machine per licence
-- **Floating Licence** - Any number of machines, one user per licence
+There are a few.
+
+- `Trial` - Enjoy the full power of the Ragdoll for 60 days, no strings attached
+- `NodeLocked` - Any number of users, one machine per licence
+- `Floating` - Any number of machines, one user per licence
 
 > What happens when my licence runs out?
 

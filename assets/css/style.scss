@@ -3,6 +3,11 @@
 
 @import "jekyll-theme-minimal";
 
+html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+}
+
 body {
     padding: 50px;
 }
@@ -11,12 +16,18 @@ h2 img {
     filter: invert(100);
 }
 
-footer, header a, header > p {
+footer, header > p {
     display: none;
 }
 
 section {
     padding-top: 32px;
+}
+
+.mascot {
+    bottom: 20px;
+    position: fixed;
+    width: 300px;
 }
 
 .button:hover {
@@ -48,6 +59,48 @@ h2 img {
 h2 {
     font-size: 2.1em;
 }
+
+
+blockquote {
+    // font-size: 1.2em;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    // border-left-width: 2px;
+    color: #333;
+}
+
+th, td {
+  padding-left: 0px;
+}
+
+ul.sidebar {
+    background: transparent;
+    border: none;
+    vertical-align: middle;
+    height: inherit;
+}
+
+ul.sidebar li {
+    width: inherit;
+    float: inherit;
+    height: inherit;
+    border-right: 1px solid #ddd;
+    vertical-align: middle;
+}
+
+ul.sidebar a {
+    vertical-align: middle;
+    line-height: 30px;
+    color: inherit;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    padding-right: 10px;
+    font-size: 11px;
+    display: block;
+    height: 34px;
+}
+
 
 /* Form */
 
@@ -140,4 +193,16 @@ h2 {
 #fs-frm fieldset.locale input[name="city"],
 #fs-frm fieldset.locale select[name="state"] {
   margin-right: 3%;
+}
+
+@media only screen and (max-width: 960px) {
+  .mascot, ul.sidebar {
+      display: none
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  .mascot {
+      display: none
+  }
 }
