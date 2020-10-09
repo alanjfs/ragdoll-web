@@ -44,7 +44,7 @@ Simulate anatomically correct muscles for your animators, in real-time.
 ## Features
 
 - **Performance** 0.1-5.0 ms/frame, from a single box to a full character with skeleton, hair, cloth and muscles running in parallel
-- **Stability** Capable of simulating fully functional [Mecha](https://en.wikipedia.org/wiki/Mecha) with the most stable solver on the market today
+- **Stability** Simulate anything from anatomically correct skeletons to complex mechanical contraptions
 - **Collision Detection** Exactly what would would expect from any self-respecting physics solver
 - **Constraints** Point, Orient and Parent constraints; just like regular Maya constraints, except physical!
 - **Natural Forces** Including Push, Magnet and Turbulence for a perfect integration into any environment
