@@ -16,6 +16,18 @@ Haven't received your download link?
 </form>
 
 <br>
+<br>
+
+# Install
+
+Ragdoll ships as a Maya [Module](https://around-the-corner.typepad.com/adn/2012/07/distributing-files-on-maya-maya-modules.html), unzip the distribution anywhere on your `MAYA_MODULES_PATH` or `~/maya/modules` directory.
+
+Binaries are currently provided for:
+
+- Windows and Linux
+- Maya 2018 and 2020
+
+<br>
 
 # FAQ
 
@@ -26,7 +38,7 @@ Haven't received your download link?
 - 4 GB of RAM
 - Maya 2018-2021
 
-> What are the licensing options?
+> What are my licensing options?
 
 - **Trial Licence** - Enjoy the full power of the Ragdoll for 60 days, no strings attached
 - **Node-locked Licence** - Any number of users, one machine per licence
@@ -34,7 +46,7 @@ Haven't received your download link?
 
 > What happens when my licence runs out?
 
-Your scenes will still open, but the solver will be disabled. Contact mailto:licence@ragdolldynamics.com for renewal of your licence.
+Your scenes will still open, but the solver will be disabled. Contact [licence@ragdolldynamics.com](licence@ragdolldynamics.com) for renewal of your licence.
 
 <br>
 
@@ -42,7 +54,7 @@ Your scenes will still open, but the solver will be disabled. Contact mailto:lic
 
 As of `2020.10.07` these are the current known limitations of Ragdoll.
 
-- Save often. It *may*, on rare occasions, crash Maya.
+- Save often. It *may*, on rare occasions, **crash** Maya
 - Only 1 Ragdoll scene may exist per Maya scene
 - Only 1 CPU core is used
 - Poor support for the `scale` attribute
