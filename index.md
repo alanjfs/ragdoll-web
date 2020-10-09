@@ -8,10 +8,12 @@ Intersections getting you down? Secondary animation causing you pain?
 
 Look no further! Ragdoll enables animators to work directly with **live physics** in their character rigs, at real-time performance, by leveraging the same technology used by next-generation games.
 
-- Say no to static cloth, hair and muscles
-- Say no to intersections
+- No more static cloth
+- No more static hair
+- No more static muscles
+- No more intersections
 
-The results can either plug straight into rendering or give technical animators a physically realistic starting point for e.g. high-resolution folds in clothing, volumetric fascia simulation and skin sliding.
+The results can either plug straight into final render or give technical animators a physically realistic starting point for e.g. high-resolution folds in clothing, volumetric fascia simulation and skin sliding.
 
 <br>
 
