@@ -66,7 +66,7 @@ Currently available members of `ragdoll.api`.
 api.create_rigid(node, scene, compute_mass=True)
 api.create_collider(node, scene, compute_mass=True)
 
-api.# Constraints
+# Constraints
 api.point_constraint(parent, child, scene)
 api.orient_constraint(parent, child, scene)
 api.hinge_constraint(parent, child, scene)
@@ -79,18 +79,18 @@ api.convert_to_hinge(con, secondary_axis="y")
 api.convert_to_socket(con)
 api.convert_to_parent(con)
 
-api.# Controls
+# Controls
 api.create_absolute_control(rigid, scene)
 api.create_relative_control(rigid, scene)
 api.create_active_control(reference, rigid, scene)
 api.create_kinematic_control(rigid, scene)
 
-api.# Forces
+# Forces
 api.create_force(type, rigid, scene)
 api.create_slice(scene)
 api.assign_force(rigid, force)
 
-api.# Utilities
+# Utilities
 api.transfer_attributes(a, b, mirror=True)
 api.transfer_rigid(ra, rb)
 api.transfer_constraint(ca, cb, mirror=True)
