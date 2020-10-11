@@ -54,7 +54,7 @@ Your scenes will still open, but the solver will be disabled. Contact [licence@r
 
 # Limitations
 
-As of `2020.10.09` these are the current known limitations of Ragdoll.
+As of `2020.10.11` these are the current known limitations of Ragdoll.
 
 - Save often. It *may*, on rare occasions, **crash** Maya
 - Only 1 Ragdoll scene may exist per Maya scene
@@ -64,4 +64,3 @@ As of `2020.10.09` these are the current known limitations of Ragdoll.
 - Joint X-axis must point towards child joint
 - When weight painting rigid joints, cannot right-click "Select influence"
 - Must visit start frame on scene open
-- Serial/Parallel partially supported, rewinding and constraints doesn't draw correctly 
