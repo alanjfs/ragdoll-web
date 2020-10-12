@@ -66,4 +66,4 @@ Play around with some examples to get a hang of Ragdoll.
 <br>
 <br>
 
-> Files are saved on a Windows machine, in Maya 2020
+> Scene files were saved on a Windows machine, in Maya 2020
