@@ -20,37 +20,40 @@ Haven't received your download link?
 
 # Install
 
-Ragdoll ships as a Maya [Module](https://around-the-corner.typepad.com/adn/2012/07/distributing-files-on-maya-maya-modules.html), unzip the distribution anywhere on your `MAYA_MODULES_PATH` or `~/maya/modules` directory.
+Ragdoll ships as a Maya [Module](https://around-the-corner.typepad.com/adn/2012/07/distributing-files-on-maya-maya-modules.html).
 
-Binaries are currently provided for:
+1. Run the `.msi` installer
+2. Restart Maya
 
-- Windows and Linux
-- Maya 2018 and 2020
+
+You should now see a new `Ragdoll` menu.
+
+![image](https://user-images.githubusercontent.com/2152766/95727954-cb353900-0c72-11eb-9592-b7fa930fff3b.png)
+
+For more options, see [Advanded Install](/troubleshooting/#advanced-install).
 
 <br>
 
 # FAQ
 
-> What are my workstation requirements?
+<blockquote class="faq">What are my workstation requirements?</blockquote>
 
 - Windows 10+ or CentOS 7+
 - 64-bit Intel® or AMD® processor
 - 4 GB of RAM
 - Maya 2018-2021
 
-> What are my licensing options?
+<blockquote class="faq">What are my licensing options?</blockquote>
 
-There are a few.
-
-- `Trial` - Enjoy the full power of the Ragdoll for 60 days, no strings attached
+- `Trial` - 60 days of non-commercial use, no strings attached
 - `NodeLocked` - Any number of users, one machine per licence
 - `Floating` - Any number of machines, one user per licence
 
-> What happens when my licence runs out?
+<blockquote class="faq">What happens when my licence runs out?</blockquote>
 
 Your scenes will still open, but the solver will be disabled. Contact [licence@ragdolldynamics.com](mailto:licence@ragdolldynamics.com) for renewal of your licence.
 
-> What happens when I skip frames?
+<blockquote class="faq">What happens when I skip frames?</blockquote>
 
 Best not to, you'll see this warning message in your Script Editor.
 

@@ -25,30 +25,32 @@ section {
 }
 
 .mascot {
-    bottom: 20px;
-    position: fixed;
-    width: 300px;
+  position: fixed;
+  padding-left: 100px;
+  bottom: 20px;
+  width: 180px;
 }
 
-.button:hover {
-    background-color: #5491c4;
-    color: white;
-    font-weight: normal;
+.button:hover, .button:active {
+  background-color: #5491c4;
+  color: white;
+  font-weight: normal;
 }
 
 .button {
-    color: white;
-    text-decoration: none;
-    width: 200px;
-    height: 50px;
-    background-color: steelblue;
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
-    color: white;
-    border-radius: 5px;
-    border-bottom: 5px solid #2b6290;
+  color: white;
+  text-decoration: none;
+  width: 200px;
+  height: 50px;
+  background-color: steelblue;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  border-radius: 5px;
+  border-bottom: 5px solid #2b6290;
 }
+
 
 h2 img {
     filter: invert(100);
@@ -61,16 +63,24 @@ h2 {
 }
 
 
-blockquote {
-    // font-size: 1.2em;
-    padding-left: 10px;
-    margin-bottom: 0px;
-    // border-left-width: 2px;
-    color: #333;
+blockquote.faq {
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  color: #333;
+  border-right-width: 2px;
+  border-left: 4px solid #e5e5e5;
+  outline: 1px solid #ddd;
+  box-shadow: 5px 5px ghostwhite;
 }
 
 th, td {
   padding-left: 0px;
+}
+
+ul {
+    padding-left: 20px;
 }
 
 ul.sidebar {
@@ -84,8 +94,13 @@ ul.sidebar li {
     width: inherit;
     float: inherit;
     height: inherit;
-    border-right: 1px solid #ddd;
+    border-right: 1px solid #eee;
     vertical-align: middle;
+}
+
+// Remove default highlight
+ul.sidebar a:active {
+  background: transparent;
 }
 
 ul.sidebar a {
@@ -96,13 +111,64 @@ ul.sidebar a {
     padding: 0;
     margin: 0;
     padding-right: 10px;
-    font-size: 11px;
+    font-size: 13px;
     display: block;
     height: 34px;
 }
 
+.example .image {
+  float: left;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3px;
+}
+
+.example h3 {
+  font-size: 13px;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 3px;
+  font-weight: normal;
+  color: black;
+}
+
+.example p {
+  font-size: 0.9em;
+  margin: 0;
+  margin-bottom: 3px;
+}
+
+.example a {
+  width: 100px;
+  height: 20px;
+  font-size: 0.9em;
+}
+
+.example .image {
+  position: relative;
+}
+
+.example .image code {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  color: white;
+  font-size: 0.7em;
+  margin: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+  background: black;
+  border-radius: 2px;
+}
+
+
+.highlight {
+  font-size: 0.9em;
+}
 
 /* Form */
+
 
 /* reset */
 #fs-frm input,

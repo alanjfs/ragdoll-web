@@ -20,10 +20,7 @@ cmds.play()
 
 ![ragdollapi1](https://user-images.githubusercontent.com/2152766/95583484-1a415b00-0a34-11eb-8f24-5a83b4ae2629.gif)
 
-**More**
-
-- The menu is built with these commands, see `ragdoll/interactive.py` for more examples
-- See [mottosso/cmdx](https://github.com/mottosso/cmdx) for details about return values
+- See `ragdoll/interactive.py` for more examples
 
 <br>
 
@@ -52,6 +49,8 @@ assert rigid.type() == "rdRigid"
 
 cmds.play()
 ```
+
+- See [mottosso/cmdx](https://github.com/mottosso/cmdx) for details about types
 
 <br>
 
