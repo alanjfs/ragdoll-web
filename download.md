@@ -50,6 +50,16 @@ There are a few.
 
 Your scenes will still open, but the solver will be disabled. Contact [licence@ragdolldynamics.com](mailto:licence@ragdolldynamics.com) for renewal of your licence.
 
+> What happens when I skip frames?
+
+Best not to, you'll see this warning message in your Script Editor.
+
+```bash
+Warning: Ragdoll evaluation skipped, frame change too large
+```
+
+Letting you know to rewind and not trust the results until you do.
+
 <br>
 
 # Limitations
