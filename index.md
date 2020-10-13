@@ -47,7 +47,7 @@ Simulate anatomically correct muscles for your animators, in real-time.
 - **Stability** Simulate anything from anatomically correct skeletons to complex mechanical contraptions
 - **Collision Detection** Exactly what would would expect from any self-respecting physics solver
 - **Constraints** Point, Orient and Parent constraints; just like regular Maya constraints, except physical!
-- **Natural Forces** Including Push, Magnet and Turbulence for a perfect integration into any environment
+- **Natural Forces** Push, Pull and Turbulence for perfect integration into any environment
 - **Rewind and Continue** Play forwards and backwards without ever having to worry about returning to frame 1. Suck on that, nCloth!
 - **Active Control** Balance animation and physics with life-like control over "virtual muscles"
 - **Anatomical Limits** Precise control over the angle each limb or chain can attain
