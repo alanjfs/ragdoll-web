@@ -9,8 +9,16 @@ This is an advanced page for when you are having issues.
 If you are on Linux, or would prefer not to run any executable, try this.
 
 1. Download the `.zip` archive
-1. Unzip it anywhere on your `MAYA_MODULES_PATH` or `~/maya` directory, e.g. `C:\Users\marcus\Documents\maya`
-1. Restart Maya, or run `cmds.loadModule(scan=True);cmds.loadModule(load="Ragdoll")` from your Python Script Editor
+1. Unzip it anywhere on your `MAYA_MODULES_PATH`
+1. Or your `~/maya` directory, e.g. `C:\Users\marcus\Documents\maya`
+1. Restart Maya
+
+Or run this from your Script Editor.
+
+```py
+cmds.loadModule(scan=True)
+cmds.loadModule(load="Ragdoll")
+```
 
 <br>
 

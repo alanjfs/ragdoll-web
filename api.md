@@ -4,7 +4,7 @@ Everything Ragdoll can do you can do, via `ragdoll.api`.
 
 ```py
 from maya import cmds
-from ragdoll import api
+from ragdoll import api as rd
 from ragdoll.vendor import cmdx
 
 cube, _ = cmds.polyCube()
@@ -12,10 +12,10 @@ cube = cmdx.encode(cube) # Convert to cmdx
 cube["translateY"] = 10
 cube["rotate", cmdx.Degrees] = (35, 50, 30)
 
-scene = api.create_scene()
-rigid = api.create_rigid(cube, scene)
+scene = rd.create_scene()
+rigid = rd.create_rigid(cube, scene)
 
-cmds.play()
+cmds.evalDeferred(cmds.play)
 ```
 
 ![ragdollapi1](https://user-images.githubusercontent.com/2152766/95583484-1a415b00-0a34-11eb-8f24-5a83b4ae2629.gif)
@@ -30,24 +30,27 @@ All functions take and return instances of [`cmdx`](https://github.com/mottosso/
 
 ```py
 from maya import cmds
-from ragdoll import api
+from ragdoll import api as rd
 from ragdoll.vendor import cmdx
+
+cmds.file(new=True, force=True)
 
 cube, _ = map(cmdx.encode, cmds.polyCube())
 cube["translateY"] = 10
 cube["rotate", cmdx.Degrees] = (35, 50, 30)
 
 # Every simulation needs a scene
-scene = api.create_scene()
+scene = rd.create_scene()
 assert isinstance(scene, cmdx.DagNode)
 assert scene.type() == "rdScene"
 
 # Every scene needs one or more rigid bodies
-rigid = api.create_rigid(cube, scene)
+rigid = rd.create_rigid(cube, scene)
 assert isinstance(rigid, cmdx.DagNode)
 assert rigid.type() == "rdRigid"
 
-cmds.play()
+# Allow start frame to evaluate before progressing
+cmds.evalDeferred(cmds.play)
 ```
 
 - See [mottosso/cmdx](https://github.com/mottosso/cmdx) for details about types
