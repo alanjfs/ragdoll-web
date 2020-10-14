@@ -68,4 +68,17 @@ Play around with some examples to get a hang of Ragdoll.
 <br>
 <br>
 
+<div class=example>
+    <div class=image>
+        <img width=128 src=https://user-images.githubusercontent.com/2152766/96019541-91b42780-0e44-11eb-82f6-152e932e8e96.gif>
+        <code>0.16 mb</code>
+    </div>
+    <h3>Example 5 | Parkour</h3>
+    <p>An animated Ragdoll "parkour" character</p>
+    <a class=button href=https://files.ragdolldynamics.com/share/PRp8VCNF>Download</a>
+</div>
+
+<br>
+<br>
+
 > Scene files were saved on a Windows machine, in Maya 2020
