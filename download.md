@@ -49,6 +49,8 @@ The MSI installer currently cannot be used to upgrade, so instead:
 
 <blockquote class="faq">What are my workstation requirements?</blockquote>
 
+Anything capable of running Maya can run Ragdoll.
+
 - Windows 10+ or CentOS 7+
 - 64-bit Intel® or AMD® processor
 - 4 GB of RAM
@@ -73,6 +75,10 @@ Warning: Ragdoll evaluation skipped, frame change too large
 ```
 
 Letting you know to rewind and not trust the results until you do.
+
+<blockquote class="faq">How do I disable the ground?</blockquote>
+
+A static collider is automatically added on the Maya grid per default, it can be disabled on the `rdScene` node via the `.useGround` attribute.
 
 <br>
 

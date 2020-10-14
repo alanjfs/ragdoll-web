@@ -82,10 +82,10 @@ api.convert_to_socket(con)
 api.convert_to_parent(con)
 
 # Controls
-api.create_absolute_control(rigid, scene)
-api.create_relative_control(rigid, scene)
-api.create_active_control(reference, rigid, scene)
-api.create_kinematic_control(rigid, scene)
+api.create_absolute_control(rigid)
+api.create_relative_control(rigid)
+api.create_active_control(reference, rigid)
+api.create_kinematic_control(rigid)
 
 # Forces
 api.create_force(type, rigid, scene)
