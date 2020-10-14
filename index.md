@@ -2,7 +2,7 @@
 
 Real-time physics for Autodesk® Maya 2020
 
-<a class="button" href="download">Download v2020.10.12</a>
+<a class="button" href="download">Download v2020.10.14</a>
 
 Intersections getting you down? Secondary animation causing you pain?
 
