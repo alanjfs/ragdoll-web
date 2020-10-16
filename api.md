@@ -12,8 +12,8 @@ cube = cmdx.encode(cube) # Convert to cmdx
 cube["translateY"] = 10
 cube["rotate", cmdx.Degrees] = (35, 50, 30)
 
-scene = rd.create_scene()
-rigid = rd.create_rigid(cube, scene)
+scene = rd.createScene()
+rigid = rd.createRigid(cube, scene)
 
 cmds.evalDeferred(cmds.play)
 ```
@@ -40,12 +40,12 @@ cube["translateY"] = 10
 cube["rotate", cmdx.Degrees] = (35, 50, 30)
 
 # Every simulation needs a scene
-scene = rd.create_scene()
+scene = rd.createScene()
 assert isinstance(scene, cmdx.DagNode)
 assert scene.type() == "rdScene"
 
 # Every scene needs one or more rigid bodies
-rigid = rd.create_rigid(cube, scene)
+rigid = rd.createRigid(cube, scene)
 assert isinstance(rigid, cmdx.DagNode)
 assert rigid.type() == "rdRigid"
 
@@ -65,38 +65,38 @@ Currently available members of `ragdoll.api`.
 
 ```py
 # Fundamentals
-api.create_rigid(node, scene, compute_mass=True)
-api.create_collider(node, scene, compute_mass=True)
+api.createRigid(node, scene, compute_mass=True)
+api.createCollider(node, scene, compute_mass=True)
 
 # Constraints
-api.point_constraint(parent, child, scene)
-api.orient_constraint(parent, child, scene)
-api.hinge_constraint(parent, child, scene)
-api.socket_constraint(parent, child, scene)
-api.parent_constraint(parent, child, scene)
+api.pointConstraint(parent, child, scene)
+api.orientConstraint(parent, child, scene)
+api.hingeConstraint(parent, child, scene)
+api.socketConstraint(parent, child, scene)
+api.parentConstraint(parent, child, scene)
 
-api.convert_to_point(con)
-api.convert_to_orient(con)
-api.convert_to_hinge(con, secondary_axis="y")
-api.convert_to_socket(con)
-api.convert_to_parent(con)
+api.convertToPoint(con)
+api.convertToOrient(con)
+api.convertToHinge(con, secondary_axis="y")
+api.convertToSocket(con)
+api.convertToParent(con)
 
 # Controls
-api.create_absolute_control(rigid)
-api.create_relative_control(rigid)
-api.create_active_control(reference, rigid)
-api.create_kinematic_control(rigid)
+api.createAbsoluteControl(rigid)
+api.createRelativeControl(rigid)
+api.createActiveControl(reference, rigid)
+api.createKinematicControl(rigid)
 
 # Forces
-api.create_force(type, rigid, scene)
-api.create_slice(scene)
+api.createForce(type, rigid, scene)
+api.createSlice(scene)
 api.assign_force(rigid, force)
 
 # Utilities
-api.transfer_attributes(a, b, mirror=True)
-api.transfer_rigid(ra, rb)
-api.transfer_constraint(ca, cb, mirror=True)
-api.edit_constraint_frames(con)
+api.transferAttributes(a, b, mirror=True)
+api.transferRigid(ra, rb)
+api.transferConstraint(ca, cb, mirror=True)
+api.editConstraintFrames(con)
 api.duplicate(rigid)
 ```
 
