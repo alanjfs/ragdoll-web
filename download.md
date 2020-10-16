@@ -1,3 +1,8 @@
+---
+layout: default
+title: Download
+---
+
 # Download
 
 Haven't received your download link?
@@ -84,7 +89,7 @@ A static collider is automatically added on the Maya grid per default, it can be
 
 # Limitations
 
-As of `2020.10.14` these are the current known limitations of Ragdoll.
+As of `{{site.ragdoll_version}}` these are the current known limitations of Ragdoll.
 
 - Save often. It *may*, on rare occasions, **crash** Maya
 - Only 1 Ragdoll scene may exist per Maya scene
