@@ -1,4 +1,4 @@
-# How-to
+# How-To
 
 Learn how to do things with Ragdoll.
 
@@ -11,6 +11,8 @@ Learn how to do things with Ragdoll.
 [![image](https://user-images.githubusercontent.com/2152766/95999167-8c97ae00-0e2d-11eb-8639-76ed5d5816d4.png)](https://youtu.be/JIdU1PD9YRQ)
 
 [![image](https://user-images.githubusercontent.com/2152766/96236395-e5815680-0f93-11eb-9c0b-c51b4d7ca7ea.png)](https://youtu.be/SC0JOoCeXBg)
+
+[![image](https://user-images.githubusercontent.com/2152766/96277524-4a58a300-0fcc-11eb-9f74-9e87b5e5451c.png)](https://youtu.be/cREymBQzpiE)
 
 <br>
 
@@ -78,6 +80,19 @@ Play around with some examples to get a hang of Ragdoll.
     <h3>Example 5 | Parkour</h3>
     <p>An animated Ragdoll "parkour" character</p>
     <a class=button href=https://files.ragdolldynamics.com/share/PRp8VCNF>Download</a>
+</div>
+
+<br>
+<br>
+
+<div class=example>
+    <div class=image>
+        <img width=128 src=https://user-images.githubusercontent.com/2152766/96277894-bc30ec80-0fcc-11eb-8002-ce4eafa58285.gif>
+        <code>4.15 mb</code>
+    </div>
+    <h3>Example 6 | mHair</h3>
+    <p>Basic character setup with basic hair controls</p>
+    <a class=button href=https://files.ragdolldynamics.com/share/nGPMuwr7>Download</a>
 </div>
 
 <br>
