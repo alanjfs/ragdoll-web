@@ -66,6 +66,7 @@ Anything capable of running Maya can run Ragdoll.
 - `Trial` - 60 days of non-commercial use, no strings attached
 - `NodeLocked` - Any number of users, one machine per licence
 - `Floating` - Any number of machines, one user per licence
+- `Headless` - A cost-effective alternative for distributed simulations
 
 <blockquote class="faq">What happens when my licence runs out?</blockquote>
 

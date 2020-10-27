@@ -12,10 +12,6 @@ body {
     padding: 50px;
 }
 
-h2 img {
-    filter: invert(100);
-}
-
 footer, header > p {
     display: none;
 }
@@ -55,7 +51,6 @@ section {
 h2 img {
     filter: invert(100);
     vertical-align: middle;
-    padding-bottom: 6px;
 }
 
 h2 {

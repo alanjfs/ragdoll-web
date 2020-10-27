@@ -21,24 +21,33 @@ The results can either plug straight into final render or give technical animato
 
 Animate with realistically simulated hair in real-time, for fine control over the final result. No more intersections, woho!
 
-![ragdollhair3](https://user-images.githubusercontent.com/2152766/95451343-8f8f2c00-095f-11eb-9f43-9880e5871d59.gif)
-
+<video width="100%" loop autoplay preload="true">
+  <source src="/assets/justagirl4.mov">
+</video>
+ 
+<br>
 <br>
 
 ## ![cloth](https://user-images.githubusercontent.com/47274066/95461823-95d8d480-096e-11eb-96d8-04daf71690dc.png) Cloth
 
 Real-time cloth for animators to stay on top of what cloth looks like in the final shot.
 
-![ragdollskirtwind3](https://user-images.githubusercontent.com/2152766/95451361-94ec7680-095f-11eb-8656-a47232c64bdd.gif)
-
+<video width="100%" loop autoplay preload="true">
+  <source src="/assets/mgirl_render1.mov">
+</video>
+ 
+<br>
 <br>
 
 ## ![muscle](https://user-images.githubusercontent.com/47274066/95461832-983b2e80-096e-11eb-9b9e-b2eb90bc66bd.png) Muscle
 
 Simulate anatomically correct muscles for your animators, in real-time.
 
-![ragdollstrongman2](https://user-images.githubusercontent.com/2152766/95451419-a6ce1980-095f-11eb-85cc-1a8c52ceb179.gif)
-
+<video width="100%" loop autoplay preload="true">
+  <source src="/assets/muscle.mov">
+</video>
+ 
+<br>
 <br>
 
 ## Features
@@ -65,3 +74,11 @@ Simulate anatomically correct muscles for your animators, in real-time.
 [![image](https://user-images.githubusercontent.com/47274066/95450452-383c8c00-095e-11eb-82b0-09954e2c706c.png)](https://youtu.be/sKESMr5lyz0)
 
 <a class="button" href="howto">More</a>
+
+<br>
+
+##### Legal
+
+> - "Just a Girl" modeled by [腱鞘炎の人](https://sketchfab.com/3d-models/just-a-girl-b2359160a4f54e76b5ae427a55d9594d), modified
+> - "Super Human" modeled by [Davyd Vidiger](https://sketchfab.com/3d-models/super-human-7aa58e978b9f4357b8e73d8e0440c896), modified
+> - "mGirl" modeled by [鈴木 一平](https://github.com/mgear-dev/Data-centric_rigging_sample_data), modified

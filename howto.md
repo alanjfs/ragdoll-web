@@ -98,4 +98,17 @@ Play around with some examples to get a hang of Ragdoll.
 <br>
 <br>
 
+<div class=example>
+    <div class=image>
+        <img width=128 src=https://user-images.githubusercontent.com/2152766/97036493-d421e680-155f-11eb-9116-60316752a8fc.gif>
+        <code>0.44 mb</code>
+    </div>
+    <h3>Example 7 | Mechanical</h3>
+    <p>An accurate mechanical contraption</p>
+    <a class=button href=https://files.ragdolldynamics.com/share/c_n7JOtF>Download</a>
+</div>
+
+<br>
+<br>
+
 > Scene files were saved on a Windows machine, in Maya 2020

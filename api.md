@@ -90,7 +90,7 @@ api.createKinematicControl(rigid)
 # Forces
 api.createForce(type, rigid, scene)
 api.createSlice(scene)
-api.assign_force(rigid, force)
+api.assignForce(rigid, force)
 
 # Utilities
 api.transferAttributes(a, b, mirror=True)
@@ -100,4 +100,4 @@ api.editConstraintFrames(con)
 api.duplicate(rigid)
 ```
 
-> Each member is also available in optional `camelCase`
+> Each member is also available in optional `snake_case`
