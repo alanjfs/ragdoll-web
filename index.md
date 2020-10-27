@@ -4,7 +4,7 @@ Real-time physics for Autodesk® Maya 2020
 
 <a class="button" href="download">Download v{{site.ragdoll_version}}</a>
 
-Ragdoll enables animators to work directly with **live physics** in their character rigs, at a 1-5 ms/frame performance impact.
+Ragdoll enables animators to work directly with **live physics** in their character rigs, at a 0-5 ms/frame performance impact.
 
 - [Real-time hair](#hair)
 - [Real-time cloth](#cloth)
@@ -49,7 +49,7 @@ Suffer the performance impact of corrective blendshapes and pray that the subseq
 
 ## Features
 
-- **Performance** 0.1-5.0 ms/frame, from a single box to a full character with skeleton, hair, cloth and muscles running in parallel
+- **Performance** 0-5 ms/frame, from a single box to a full character with skeleton, hair, cloth and muscles running in parallel with native and interactive forwards and backwards caching, with additional support for Cached Playback in Maya 2020+
 - **Stability** Simulate anything from anatomically correct skeletons to complex mechanical contraptions
 - **Collision Detection** Exactly what would would expect from any self-respecting physics solver
 - **Constraints** Point, Orient and Parent constraints; just like regular Maya constraints, except physical!
