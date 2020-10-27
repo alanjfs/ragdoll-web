@@ -4,22 +4,19 @@ Real-time physics for Autodesk® Maya 2020
 
 <a class="button" href="download">Download v{{site.ragdoll_version}}</a>
 
-Intersections getting you down? Secondary animation causing you pain?
+Ragdoll enables animators to work directly with **live physics** in their character rigs, at a 1-5 ms/frame performance impact.
 
-Look no further! Ragdoll enables animators to work directly with **live physics** in their character rigs, at real-time performance, by leveraging the same technology used by next-generation games.
-
-- No more static cloth
-- No more static hair
-- No more static muscles
-- No more intersections
+- [Real-time hair](#hair)
+- [Real-time cloth](#cloth)
+- [Real-time muscles](#muscle)
 
 The results can either plug straight into final render or give technical animators a physically realistic starting point for e.g. high-resolution folds in clothing, volumetric fascia simulation and skin sliding.
 
 <br>
 
-## ![hair](https://user-images.githubusercontent.com/47274066/95461849-9cffe280-096e-11eb-8a7a-f2152a4ea30e.png) Hair
+<h2 id=hair>Hair <img src=https://user-images.githubusercontent.com/47274066/95461849-9cffe280-096e-11eb-8a7a-f2152a4ea30e.png> </h2>
 
-Animate with realistically simulated hair in real-time, for fine control over the final result. No more intersections, woho!
+Animate each individual strand, respond to the overall motion of the body and take care not to intersect. Or, animate with physically accurate hair in real-time. Your choice.
 
 <video width="100%" loop autoplay preload="true">
   <source src="/assets/justagirl4.mov">
@@ -28,9 +25,9 @@ Animate with realistically simulated hair in real-time, for fine control over th
 <br>
 <br>
 
-## ![cloth](https://user-images.githubusercontent.com/47274066/95461823-95d8d480-096e-11eb-96d8-04daf71690dc.png) Cloth
+<h2 id=cloth>Cloth <img src=https://user-images.githubusercontent.com/47274066/95461823-95d8d480-096e-11eb-96d8-04daf71690dc.png> </h2>
 
-Real-time cloth for animators to stay on top of what cloth looks like in the final shot.
+Imagine what cloth will eventually look like weeks after you're finished animating, or work with it directly as you animate. Your choice.
 
 <video width="100%" loop autoplay preload="true">
   <source src="/assets/mgirl_render1.mov">
@@ -39,9 +36,9 @@ Real-time cloth for animators to stay on top of what cloth looks like in the fin
 <br>
 <br>
 
-## ![muscle](https://user-images.githubusercontent.com/47274066/95461832-983b2e80-096e-11eb-9b9e-b2eb90bc66bd.png) Muscle
+<h2 id=muscle>Muscle <img src=https://user-images.githubusercontent.com/47274066/95461832-983b2e80-096e-11eb-9b9e-b2eb90bc66bd.png> </h2>
 
-Simulate anatomically correct muscles for your animators, in real-time.
+Suffer the performance impact of corrective blendshapes and pray that the subsequent muscle simulation won't mess up the silhouette of your finished animation. Or, work with muscles directly as you animate. Your choice.
 
 <video width="100%" loop autoplay preload="true">
   <source src="/assets/muscle.mov">
