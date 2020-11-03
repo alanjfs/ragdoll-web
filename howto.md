@@ -113,4 +113,17 @@ Play around with some examples to get a hang of Ragdoll.
 <br>
 <br>
 
+<div class=example>
+    <div class=image>
+        <img width=128 src=https://user-images.githubusercontent.com/47274066/97983311-04be1780-1dcd-11eb-9a6a-ac5239dfb811.gif>
+        <code>0.40 mb</code>
+    </div>
+    <h3>Example 8 | Driving</h3>
+    <p>A late night drive on a busy dirt road</p>
+    <a class=button href=https://files.ragdolldynamics.com/share/xKLUBNZu>Download</a>
+</div>
+
+<br>
+<br>
+
 > Scene files were saved on a Windows machine, in Maya 2020
