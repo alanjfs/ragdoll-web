@@ -92,7 +92,6 @@ A static collider is automatically added on the Maya grid per default, it can be
 
 As of `{{site.ragdoll_version}}` these are the current known limitations of Ragdoll.
 
-- Save often. It *may*, on rare occasions, **crash** Maya
 - Only 1 Ragdoll scene may exist per Maya scene
 - Only 1 CPU core is used
 - Poor support for the `scale` attribute
