@@ -1,11 +1,12 @@
-# Ragdoll Dynamics
+# Ragdoll
 
 Real-time physics for Autodesk® Maya 2020
 
 <a class="button" href="download">Download v{{site.ragdoll_version}}</a>
 
-Ragdoll enables animators to work directly with **live physics** in their character rigs, at a 0-5 ms/frame performance impact.
+Ragdoll enables **animators** to work directly with **live physics** in their character rigs, at a 0-5 ms/frame performance impact.
 
+- [Real-time full body dynamics](#fbd)
 - [Real-time hair](#hair)
 - [Real-time cloth](#cloth)
 - [Real-time muscles](#muscle)
@@ -14,30 +15,31 @@ The results can either plug straight into final render or give technical animato
 
 <br>
 
-<h2 id=hair>Hair <img src=https://user-images.githubusercontent.com/47274066/95461849-9cffe280-096e-11eb-8a7a-f2152a4ea30e.png> </h2>
+<!-- <h2 class=usp id=fbd>RFBD<img src=https://user-images.githubusercontent.com/47274066/97966499-d41db400-1db3-11eb-946a-9cac61feddf0.png></h2> -->
+<h2 class=usp id=fbd>RFBD <img src=https://user-images.githubusercontent.com/47274066/97966499-d41db400-1db3-11eb-946a-9cac61feddf0.png></h2>
 
-Animate each individual strand, respond to the overall motion of the body and take care not to intersect. Or, animate with physically accurate hair in real-time. Your choice.
+Animate like it's 1999, or leverage *Full Body Dynamics* to automate the vast majority of secondary animation, that respond to changes in environment and interacts with other characters. Your choice.
 
-![ragdollhair3](https://user-images.githubusercontent.com/2152766/95451343-8f8f2c00-095f-11eb-9f43-9880e5871d59.gif)
- 
-<br>
-<br>
+![ragdollfbd](https://user-images.githubusercontent.com/47274066/97965511-63c26300-1db2-11eb-94bf-0a197b3bca95.gif)
 
-<h2 id=cloth>Cloth <img src=https://user-images.githubusercontent.com/47274066/95461823-95d8d480-096e-11eb-96d8-04daf71690dc.png> </h2>
-
-Imagine what cloth will eventually look like weeks after you're finished animating, or work with it directly as you animate. Your choice.
-
-![ragdollskirtwind3](https://user-images.githubusercontent.com/2152766/95451361-94ec7680-095f-11eb-8656-a47232c64bdd.gif)
- 
-<br>
-<br>
-
-<h2 id=muscle>Muscle <img src=https://user-images.githubusercontent.com/47274066/95461832-983b2e80-096e-11eb-9b9e-b2eb90bc66bd.png> </h2>
+<h2 class=usp id=muscle>Muscle <img src=https://user-images.githubusercontent.com/47274066/95461832-983b2e80-096e-11eb-9b9e-b2eb90bc66bd.png></h2>
 
 Suffer the performance impact of corrective blendshapes and pray that the subsequent muscle simulation won't mess up the silhouette of your finished animation. Or, work with muscles directly as you animate. Your choice.
 
 ![ragdollstrongman2](https://user-images.githubusercontent.com/2152766/95451419-a6ce1980-095f-11eb-85cc-1a8c52ceb179.gif)
 
+<h2 class=usp id=hair>Hair <img src=https://user-images.githubusercontent.com/47274066/95461849-9cffe280-096e-11eb-8a7a-f2152a4ea30e.png></h2>
+
+Animate each individual strand, respond to the overall motion of the body and take care not to intersect. Or, animate with physically accurate hair in real-time. Your choice.
+
+![ragdollhair3](https://user-images.githubusercontent.com/2152766/95451343-8f8f2c00-095f-11eb-9f43-9880e5871d59.gif)
+ 
+<h2 class=usp id=cloth>Cloth <img src=https://user-images.githubusercontent.com/47274066/95461823-95d8d480-096e-11eb-96d8-04daf71690dc.png></h2>
+
+Imagine what cloth will eventually look like weeks after you're finished animating, or work with it directly as you animate. Your choice.
+
+![ragdollskirtwind3](https://user-images.githubusercontent.com/2152766/95451361-94ec7680-095f-11eb-8656-a47232c64bdd.gif)
+ 
 <br>
 <br>
 
