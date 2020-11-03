@@ -86,6 +86,10 @@ Letting you know to rewind and not trust the results until you do.
 
 A static collider is automatically added on the Maya grid per default, it can be disabled on the `rdScene` node via the `.useGround` attribute.
 
+<blockquote class="faq">Why not use nHair for secondary animation?</blockquote>
+
+Ragdoll simulates your translate and rotate channels, whereas nHair simulates point geometry. You can convert those points into translation and rotation, but given the choice why would you? Besides, Ragdoll has far more robust collisions, control and constraints than nHair or nCloth could ever hope to achieve, at much greater performance.
+
 <br>
 
 # Limitations
