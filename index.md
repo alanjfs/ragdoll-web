@@ -18,9 +18,7 @@ The results can either plug straight into final render or give technical animato
 
 Animate each individual strand, respond to the overall motion of the body and take care not to intersect. Or, animate with physically accurate hair in real-time. Your choice.
 
-<video width="100%" loop autoplay preload="true">
-  <source src="/assets/justagirl4.mov">
-</video>
+![ragdollhair3](https://user-images.githubusercontent.com/2152766/95451343-8f8f2c00-095f-11eb-9f43-9880e5871d59.gif)
  
 <br>
 <br>
@@ -29,9 +27,7 @@ Animate each individual strand, respond to the overall motion of the body and ta
 
 Imagine what cloth will eventually look like weeks after you're finished animating, or work with it directly as you animate. Your choice.
 
-<video width="100%" loop autoplay preload="true">
-  <source src="/assets/mgirl_render1.mov">
-</video>
+![ragdollskirtwind3](https://user-images.githubusercontent.com/2152766/95451361-94ec7680-095f-11eb-8656-a47232c64bdd.gif)
  
 <br>
 <br>
@@ -40,10 +36,8 @@ Imagine what cloth will eventually look like weeks after you're finished animati
 
 Suffer the performance impact of corrective blendshapes and pray that the subsequent muscle simulation won't mess up the silhouette of your finished animation. Or, work with muscles directly as you animate. Your choice.
 
-<video width="100%" loop autoplay preload="true">
-  <source src="/assets/muscle.mov">
-</video>
- 
+![ragdollstrongman2](https://user-images.githubusercontent.com/2152766/95451419-a6ce1980-095f-11eb-85cc-1a8c52ceb179.gif)
+
 <br>
 <br>
 
