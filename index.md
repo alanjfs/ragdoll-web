@@ -15,7 +15,7 @@ The results can either plug straight into final render or give technical animato
 
 <br>
 
-<h2 class=usp id=fbd>RFBD <img src=https://user-images.githubusercontent.com/47274066/97966499-d41db400-1db3-11eb-946a-9cac61feddf0.png></h2>
+<h2 class=usp id=fbd>Body <img src=https://user-images.githubusercontent.com/47274066/97966499-d41db400-1db3-11eb-946a-9cac61feddf0.png></h2>
 
 Animate like it's 1999, or leverage *Full Body Dynamics* to automate the vast majority of overlapping animation that even respond to changes in environment and interacts with other characters. Your choice.
 
