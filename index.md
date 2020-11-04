@@ -15,10 +15,9 @@ The results can either plug straight into final render or give technical animato
 
 <br>
 
-<!-- <h2 class=usp id=fbd>RFBD<img src=https://user-images.githubusercontent.com/47274066/97966499-d41db400-1db3-11eb-946a-9cac61feddf0.png></h2> -->
 <h2 class=usp id=fbd>RFBD <img src=https://user-images.githubusercontent.com/47274066/97966499-d41db400-1db3-11eb-946a-9cac61feddf0.png></h2>
 
-Animate like it's 1999, or leverage *Full Body Dynamics* to automate the vast majority of secondary animation, that respond to changes in environment and interacts with other characters. Your choice.
+Animate like it's 1999, or leverage *Full Body Dynamics* to automate the vast majority of overlapping animation that even respond to changes in environment and interacts with other characters. Your choice.
 
 ![ragdollfbd](https://user-images.githubusercontent.com/47274066/97965511-63c26300-1db2-11eb-94bf-0a197b3bca95.gif)
 
@@ -44,6 +43,8 @@ Imagine what cloth will eventually look like weeks after you're finished animati
 <br>
 
 ## Features
+
+Have I got your attention?
 
 - **Performance** 0-5 ms/frame, from a single box to a full character with skeleton, hair, cloth and muscles running in parallel with native and interactive forwards and backwards caching, with additional support for Cached Playback in Maya 2020+
 - **Stability** Simulate anything from anatomically correct skeletons to complex mechanical contraptions
