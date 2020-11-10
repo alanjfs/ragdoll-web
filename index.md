@@ -47,6 +47,9 @@ Imagine what cloth will eventually look like weeks after you're finished animati
 Have I got your attention?
 
 - **Performance** 0-5 ms/frame, from a single box to a full character with skeleton, hair, cloth and muscles running in parallel with native and interactive forwards and backwards caching, with additional support for Cached Playback in Maya 2020+
+- **Parallel Evaluation** Achieve greater performance with solvers running over separate threads with Maya's native parallel evaluation
+- **Multi-threaded** Even greater performance with each individual solver running over multiple threads, with automatic simulation islands
+- **Cached Playback** Optimise performance and interactivity with Maya's native Cached Playback
 - **Stability** Simulate anything from anatomically correct skeletons to complex mechanical contraptions
 - **Collision Detection** Exactly what would would expect from any self-respecting physics solver
 - **Constraints** Point, Orient and Parent constraints; just like regular Maya constraints, except physical!
