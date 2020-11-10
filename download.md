@@ -35,7 +35,7 @@ You should now see a new `Ragdoll` menu.
 
 ![image](https://user-images.githubusercontent.com/2152766/95727954-cb353900-0c72-11eb-9592-b7fa930fff3b.png)
 
-For more options, see [Advanced Install](/troubleshooting/#advanced-install).
+For more options, see [Advanced Install](/troubleshooting#advanced-install).
 
 <br>
 
