@@ -96,10 +96,7 @@ Ragdoll simulates your translate and rotate channels, whereas nHair simulates po
 
 As of `{{site.ragdoll_version}}` these are the current known limitations of Ragdoll.
 
-- Only 1 Ragdoll scene may exist per Maya scene
-- Only 1 CPU core is used
+- Must visit start frame on scene open
 - Poor support for the `scale` attribute
 - Attributes `jointOrient`, `rotatePivot` and `rotatePivotTranslate` will be zeroed out
-- Joint X-axis must point towards child joint
 - When weight painting rigid joints, cannot right-click "Select influence"
-- Must visit start frame on scene open
