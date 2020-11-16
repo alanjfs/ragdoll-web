@@ -48,6 +48,8 @@ The MSI installer currently cannot be used to upgrade, so instead:
 
 > Or `~/maya` on Linux
 
+- See [Release History](/releases)
+
 <br>
 
 # FAQ
