@@ -8,5 +8,4 @@ show_downloads: false
 markdown: CommonMarkGhPages
 ragdoll_version: "2020.11.16"
 commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+  extensions: ["autolink"]
