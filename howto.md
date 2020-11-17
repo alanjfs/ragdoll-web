@@ -2,6 +2,8 @@
 
 Learn how to do things with Ragdoll.
 
+- [Full Playlist](https://www.youtube.com/playlist?list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy)
+
 [![image](https://user-images.githubusercontent.com/47274066/95450416-2c50ca00-095e-11eb-90c9-a3c671f99c58.png)](https://www.youtube.com/watch?v=mJFRmRGthMw&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=1)
 
 [![image](https://user-images.githubusercontent.com/47274066/95450438-3377d800-095e-11eb-856c-94b6d634fbdb.png)](https://www.youtube.com/watch?v=HsyCGfuim0k&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=2)
