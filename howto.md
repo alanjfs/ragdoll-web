@@ -2,25 +2,25 @@
 
 Learn how to do things with Ragdoll.
 
-[![image](https://user-images.githubusercontent.com/47274066/95450416-2c50ca00-095e-11eb-90c9-a3c671f99c58.png)](https://youtu.be/mJFRmRGthMw)
+[![image](https://user-images.githubusercontent.com/47274066/95450416-2c50ca00-095e-11eb-90c9-a3c671f99c58.png)](https://www.youtube.com/watch?v=mJFRmRGthMw&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=1)
 
-[![image](https://user-images.githubusercontent.com/47274066/95450438-3377d800-095e-11eb-856c-94b6d634fbdb.png)](https://youtu.be/HsyCGfuim0k)
+[![image](https://user-images.githubusercontent.com/47274066/95450438-3377d800-095e-11eb-856c-94b6d634fbdb.png)](https://www.youtube.com/watch?v=HsyCGfuim0k&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=2)
 
-[![image](https://user-images.githubusercontent.com/47274066/95450452-383c8c00-095e-11eb-82b0-09954e2c706c.png)](https://youtu.be/sKESMr5lyz0)
+[![image](https://user-images.githubusercontent.com/47274066/95450452-383c8c00-095e-11eb-82b0-09954e2c706c.png)](https://www.youtube.com/watch?v=sKESMr5lyz0&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=3)
 
-[![image](https://user-images.githubusercontent.com/2152766/95999167-8c97ae00-0e2d-11eb-8639-76ed5d5816d4.png)](https://youtu.be/JIdU1PD9YRQ)
+[![image](https://user-images.githubusercontent.com/2152766/95999167-8c97ae00-0e2d-11eb-8639-76ed5d5816d4.png)](https://www.youtube.com/watch?v=JIdU1PD9YRQ&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=4)
 
-[![image](https://user-images.githubusercontent.com/2152766/96236395-e5815680-0f93-11eb-9c0b-c51b4d7ca7ea.png)](https://youtu.be/SC0JOoCeXBg)
+[![image](https://user-images.githubusercontent.com/2152766/96236395-e5815680-0f93-11eb-9c0b-c51b4d7ca7ea.png)](https://www.youtube.com/watch?v=SC0JOoCeXBg&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=5)
 
-[![image](https://user-images.githubusercontent.com/2152766/98682838-46fed000-235c-11eb-9756-88e1cde06124.png)](https://youtu.be/cREymBQzpiE)
+[![image](https://user-images.githubusercontent.com/2152766/98682838-46fed000-235c-11eb-9756-88e1cde06124.png)](https://www.youtube.com/watch?v=cREymBQzpiE&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=6)
 
-[![image](https://user-images.githubusercontent.com/2152766/98682790-36e6f080-235c-11eb-84a2-076abc7e8007.png)](https://youtu.be/D12asa1NQ6Y)
+[![image](https://user-images.githubusercontent.com/2152766/98682790-36e6f080-235c-11eb-84a2-076abc7e8007.png)](https://www.youtube.com/watch?v=D12asa1NQ6Y&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=7)
 
-[![image](https://user-images.githubusercontent.com/2152766/98682743-2cc4f200-235c-11eb-8d60-c20e4264cf42.png)](https://youtu.be/Ewf4vFoR5p0)
+[![image](https://user-images.githubusercontent.com/2152766/98682743-2cc4f200-235c-11eb-8d60-c20e4264cf42.png)](https://www.youtube.com/watch?v=Ewf4vFoR5p0&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=8)
 
-[![image](https://user-images.githubusercontent.com/2152766/98682675-17e85e80-235c-11eb-8a4d-3bc3e0e43ce3.png)](https://youtu.be/PbqqPiw25Jw)
+[![image](https://user-images.githubusercontent.com/2152766/98682675-17e85e80-235c-11eb-8a4d-3bc3e0e43ce3.png)](https://www.youtube.com/watch?v=PbqqPiw25Jw&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=9)
 
-[![image](https://user-images.githubusercontent.com/2152766/98685155-ef159880-235e-11eb-9c54-1a159af13ecf.png)](https://youtu.be/bx_dLkq_BlU)
+[![image](https://user-images.githubusercontent.com/2152766/98685155-ef159880-235e-11eb-9c54-1a159af13ecf.png)](https://www.youtube.com/watch?v=bx_dLkq_BlU&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=10)
 
 <br>
 <br>
