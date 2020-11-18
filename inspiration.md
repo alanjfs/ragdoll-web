@@ -87,6 +87,62 @@ Another interesting one, also showcases the strength and accuracy of the solver.
 <br>
 <br>
 
+### Projectile
+
+A scene out of Avengers, getting converted to full ragdoll on impact.
+
+<img width=600 src=https://user-images.githubusercontent.com/2152766/31718386-b4b7cc68-b407-11e7-83d3-84f7c1834a5e.gif>
+
+<br>
+<br>
+<br>
+
+### Tether
+
+Lots of interesting interactions with the environment, along with a tether physically connecting two full-body dynamics characters, that also animate `off` at one point.
+
+<img width=600 src=https://user-images.githubusercontent.com/2152766/31739417-b0870bd4-b445-11e7-943c-2a620090ebc9.gif>
+
+<br>
+<br>
+<br>
+
+### Pacific Rim Monster
+
+Anything getting smashed is a good candidate for physics!
+
+<img width=600 src=https://user-images.githubusercontent.com/2152766/31738772-9713ced2-b443-11e7-902c-b47b2eec62a4.gif>
+
+<img width=600 src=https://user-images.githubusercontent.com/2152766/31738759-95ded1ba-b443-11e7-9aa0-9aff169c31e2.gif>
+
+<br>
+<br>
+<br>
+
+### Jungle Book
+
+Think about what must have happened here, and how few contacts you actually see with the ground. Neatly and conveniently hidden by the shadow cast from the sun. :)
+
+<img width=600 src=https://user-images.githubusercontent.com/2152766/31738829-ba044566-b443-11e7-9068-947ff2b43bc0.gif>
+
+<br>
+<br>
+<br>
+
+### Planet of the Apes
+
+Character-to-character interaction. This could probably be handled as a separate pass on-top of finished animation, to respond to a kinematically animated hand grabbing a dynamically responding neck and body. The body being roughly animated into place, and finalled with physics.
+
+<img width=600 src=https://user-images.githubusercontent.com/2152766/31740962-c51b0776-b44a-11e7-803f-fe37bc3f3d4e.gif>
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
 ### Think of something else?
 
 Let me know!
