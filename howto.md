@@ -136,4 +136,17 @@ Play around with some examples to get a hang of Ragdoll.
 <br>
 <br>
 
+<div class=example>
+    <div class=image>
+        <img width=128 src=https://user-images.githubusercontent.com/2152766/99910428-d786ca00-2ce5-11eb-9acb-b4a3f16fe6a3.gif>
+        <code>0.05 mb</code>
+    </div>
+    <h3>Example 9 | Dynamic Control</h3>
+    <p>A regular animation control. With dynamics!</p>
+    <a class=button href=https://files.ragdolldynamics.com/share/ZNgY42SF>Download</a>
+</div>
+
+<br>
+<br>
+
 > Scene files were saved on a Windows machine, in Maya 2020
