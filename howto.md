@@ -14,7 +14,7 @@ Learn how to do things with Ragdoll.
 
 [![image](https://user-images.githubusercontent.com/2152766/96236395-e5815680-0f93-11eb-9c0b-c51b4d7ca7ea.png)](https://www.youtube.com/watch?v=SC0JOoCeXBg&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=5)
 
-[![image](https://user-images.githubusercontent.com/2152766/98682838-46fed000-235c-11eb-9756-88e1cde06124.png)](https://www.youtube.com/watch?v=cREymBQzpiE&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=6)
+[![image](https://user-images.githubusercontent.com/2152766/99910313-22541200-2ce5-11eb-98f6-dd4128e5b943.png)](https://www.youtube.com/watch?v=Zhe9pAaAd7s&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=6)
 
 [![image](https://user-images.githubusercontent.com/2152766/98682790-36e6f080-235c-11eb-84a2-076abc7e8007.png)](https://www.youtube.com/watch?v=D12asa1NQ6Y&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=7)
 
@@ -22,7 +22,7 @@ Learn how to do things with Ragdoll.
 
 [![image](https://user-images.githubusercontent.com/2152766/98682675-17e85e80-235c-11eb-8a4d-3bc3e0e43ce3.png)](https://www.youtube.com/watch?v=PbqqPiw25Jw&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=9)
 
-[![image](https://user-images.githubusercontent.com/2152766/98685155-ef159880-235e-11eb-9c54-1a159af13ecf.png)](https://www.youtube.com/watch?v=bx_dLkq_BlU&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=10)
+[![image](https://user-images.githubusercontent.com/2152766/99910356-66dfad80-2ce5-11eb-9b2a-ce817aa66ce4.png)](https://www.youtube.com/watch?v=xzC3N1zxM6U&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=10)
 
 <br>
 <br>
