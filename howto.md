@@ -24,13 +24,19 @@ Learn how to do things with Ragdoll.
 
 [![image](https://user-images.githubusercontent.com/2152766/99910356-66dfad80-2ce5-11eb-9b2a-ce817aa66ce4.png)](https://www.youtube.com/watch?v=xzC3N1zxM6U&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=10)
 
+[![image](https://user-images.githubusercontent.com/2152766/99968562-2e95a900-2d91-11eb-914f-5a4f66fb457c.png)](https://www.youtube.com/watch?v=-y_CftzmDPk&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=11)
+
+[![image](https://user-images.githubusercontent.com/2152766/99968598-39e8d480-2d91-11eb-9b1c-eb13ed21cdc9.png)](https://www.youtube.com/watch?v=NSShJ9sm4Eo&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=12)
+
+[![image](https://user-images.githubusercontent.com/2152766/99968617-42d9a600-2d91-11eb-9c83-1bb3db094efe.png)](https://www.youtube.com/watch?v=ZR1NKv7ZRCg&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=13)
+
 <br>
 <br>
 <br>
 
 # Examples
 
-Play around with some examples to get a hang of Ragdoll.
+Download and play around with some examples to get a hang of Ragdoll.
 
 <div class=example>
     <div class=image>

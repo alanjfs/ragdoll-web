@@ -20,6 +20,18 @@ section {
     padding-top: 32px;
 }
 
+code {
+  border: 1px solid #f0f0f0;
+  border-radius: 5px;
+  background: #fcfcfc;
+  color: #EE8282;
+  color: #DB2828;
+  padding: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+  font-family: Courier New;
+}
+
 .mascot {
   position: fixed;
   padding-left: 100px;
@@ -47,14 +59,13 @@ section {
   border-bottom: 5px solid #2b6290;
 }
 
-
 h2 img {
     filter: invert(100);
     vertical-align: middle;
 }
 
 h2 {
-    font-size: 2.1em;
+    font-size: 1.6em;
 }
 
 h2.usp {
