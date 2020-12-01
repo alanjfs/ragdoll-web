@@ -39,6 +39,8 @@ Imagine what cloth will eventually look like weeks after you're finished animati
 
 ![ragdollskirtwind3](https://user-images.githubusercontent.com/2152766/95451361-94ec7680-095f-11eb-8656-a47232c64bdd.gif)
  
+<a class="button" href="gallery">More</a>
+
 <br>
 <br>
 
