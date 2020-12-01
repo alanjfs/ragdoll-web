@@ -2,8 +2,6 @@
 
 Learn how to do things with Ragdoll.
 
-- [Full Playlist](https://www.youtube.com/playlist?list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy)
-
 [![image](https://user-images.githubusercontent.com/47274066/95450416-2c50ca00-095e-11eb-90c9-a3c671f99c58.png)](https://www.youtube.com/watch?v=mJFRmRGthMw&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=1)
 
 [![image](https://user-images.githubusercontent.com/47274066/95450438-3377d800-095e-11eb-856c-94b6d634fbdb.png)](https://www.youtube.com/watch?v=HsyCGfuim0k&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=2)
@@ -22,15 +20,7 @@ Learn how to do things with Ragdoll.
 
 [![image](https://user-images.githubusercontent.com/2152766/98682675-17e85e80-235c-11eb-8a4d-3bc3e0e43ce3.png)](https://www.youtube.com/watch?v=PbqqPiw25Jw&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=9)
 
-[![image](https://user-images.githubusercontent.com/2152766/99910356-66dfad80-2ce5-11eb-9b2a-ce817aa66ce4.png)](https://www.youtube.com/watch?v=xzC3N1zxM6U&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=10)
-
-[![image](https://user-images.githubusercontent.com/2152766/99968562-2e95a900-2d91-11eb-914f-5a4f66fb457c.png)](https://www.youtube.com/watch?v=-y_CftzmDPk&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=11)
-
-[![image](https://user-images.githubusercontent.com/2152766/99968598-39e8d480-2d91-11eb-9b1c-eb13ed21cdc9.png)](https://www.youtube.com/watch?v=NSShJ9sm4Eo&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=12)
-
-[![image](https://user-images.githubusercontent.com/2152766/99968617-42d9a600-2d91-11eb-9c83-1bb3db094efe.png)](https://www.youtube.com/watch?v=ZR1NKv7ZRCg&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=13)
-
-[![image](https://user-images.githubusercontent.com/2152766/99988204-3f521900-2da9-11eb-8561-30effff68045.png)](https://www.youtube.com/watch?v=oqNweG5LYaI&list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy&index=14)
+<a class=button href="https://www.youtube.com/playlist?list=PLL4XIS5Woc6nVsTdsvs0XLmiKmXVCdwXy">Even More</a>
 
 <br>
 <br>
@@ -152,6 +142,19 @@ Download and play around with some examples to get a hang of Ragdoll.
     <h3>Example 9 | Dynamic Control</h3>
     <p>A regular animation control. With dynamics!</p>
     <a class=button href=https://files.ragdolldynamics.com/share/ZNgY42SF>Download</a>
+</div>
+
+<br>
+<br>
+
+<div class=example>
+    <div class=image>
+        <img width=128 src=https://user-images.githubusercontent.com/2152766/100104327-f019f000-2e5d-11eb-97da-b9d23d5d21cb.gif>
+        <code>2.91 mb</code>
+    </div>
+    <h3>Example 10 | Dance, Baby</h3>
+    <p>Fool around with guide strength to affect this dance performance!</p>
+    <a class=button href=https://files.ragdolldynamics.com/share/rKN1sryQ>Download</a>
 </div>
 
 <br>

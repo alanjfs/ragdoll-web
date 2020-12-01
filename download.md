@@ -10,7 +10,7 @@ Haven't received your download link?
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/signup@ragdolldynamics.com" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="Rag Doll" required="">
+    <input type="text" name="name" id="full-name" placeholder="Ragnar Dollsten" required="">
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="rag@doll.com" required="">
     <label for="message">Message</label>
@@ -25,11 +25,24 @@ Haven't received your download link?
 
 # Install
 
-Ragdoll ships as a Maya [Module](https://around-the-corner.typepad.com/adn/2012/07/distributing-files-on-maya-maya-modules.html).
+Ragdoll ships as a Maya [Module](https://around-the-corner.typepad.com/adn/2012/07/distributing-files-on-maya-maya-modules.html) for Windows and Linux.
+
+<img id=platform width=30 src=https://user-images.githubusercontent.com/2152766/100113967-d205bd00-2e68-11eb-8d95-34fe7382c3e1.png> <img id=platform width=30 src=https://user-images.githubusercontent.com/2152766/100113964-d16d2680-2e68-11eb-9be0-2f9b5d25a7b0.png>
+
+**Windows**
 
 1. Run the `.msi` installer
 2. Restart Maya
 
+**Linux**
+
+1. Unzip the `.zip` into your `~/maya` directory
+2. Restart Maya
+
+**MacOS**
+
+1. Hold your breath
+2. Tap your toes
 
 You should now see a new `Ragdoll` menu.
 
@@ -90,7 +103,9 @@ A static collider is automatically added on the Maya grid per default, it can be
 
 <blockquote class="faq">Why not use nHair for overlapping animation?</blockquote>
 
-Ragdoll simulates your translate and rotate channels, whereas nHair simulates point geometry. You can convert those points into translation and rotation, but given the choice why would you? Besides, Ragdoll has far more robust collisions, control and constraints than nHair or nCloth could ever hope to achieve, at much greater performance.
+Yes, and while your at it, why not stick razor blades in your eyes?
+
+Seriously though, Ragdoll simulates your translate and rotate channels, whereas nHair simulates point geometry. You can convert those points into translation and rotation, but given the choice why would you? Besides, Ragdoll has far more robust collisions, control and constraints than nHair or nCloth could ever hope to achieve, at much greater performance.
 
 <br>
 
@@ -100,5 +115,6 @@ As of `{{site.ragdoll_version}}` these are the current known limitations of Ragd
 
 - Must visit start frame on scene open
 - Poor support for the `scale` attribute
+- Poor support for any `rotateAxis` other than `XYZ`
 - Attributes `jointOrient`, `rotatePivot` and `rotatePivotTranslate` will be zeroed out
 - When weight painting rigid joints, cannot right-click "Select influence"
