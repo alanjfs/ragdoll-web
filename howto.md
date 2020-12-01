@@ -160,4 +160,17 @@ Download and play around with some examples to get a hang of Ragdoll.
 <br>
 <br>
 
+<div class=example>
+    <div class=image>
+        <img width=128 src=https://user-images.githubusercontent.com/2152766/100760702-f40fba00-33e9-11eb-846e-528d4443510a.gif>
+        <code>0.24 mb</code>
+    </div>
+    <h3>Example 11 | Slowmo</h3>
+    <p>Manipulate time with the <code>timeMultiplier</code> attribute</p>
+    <a class=button href=https://files.ragdolldynamics.com/share/aYAN53w->Download</a>
+</div>
+
+<br>
+<br>
+
 > Scene files were saved on a Windows machine, in Maya 2020
