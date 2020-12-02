@@ -12,5 +12,5 @@ Some Ragdoll goodies spread across the interwebs.
   <source src="/assets/ragdolldriving.mp4" type="video/mp4">
 </video>
 <img src=https://user-images.githubusercontent.com/47274066/100774425-f712a680-33f9-11eb-98ae-bb0bf24e54d9.gif>
-<img src=https://user-images.githubusercontent.com/47274066/100774586-232e2780-33fa-11eb-9dfe-9e91715c45d3.gif>
+<img src=https://user-images.githubusercontent.com/47274066/100844409-bd7e8180-3473-11eb-982a-b5c74903b5f5.gif>
 
